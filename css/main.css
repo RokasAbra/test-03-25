@@ -50,14 +50,7 @@ div > p {
   margin-top: 120px;
   margin-left: 100px;
 }
-.fourth > h2 {
+div > .fourth > h2 {
   padding-left: 70px;
-}
-
-.first > img {
-  padding: 20px;
-  margin-bottom: 30px;
-}
-.fourth > img {
-  width: 385px;
+  margin-top: 50px;
 }
